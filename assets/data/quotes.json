@@ -1,0 +1,296 @@
+{
+  "categories": [
+    {
+      "name": "Love",
+      "icon": "favorite",
+      "color": "#E91E63",
+      "quotes": [
+        "Your smile is my favorite notification.",
+        "Love is not what you say, it's what you prove.",
+        "In a sea of people, my eyes will always search for you.",
+        "You are the reason I look down at my phone and smile.",
+        "I fell in love the way you fall asleep: slowly, then all at once.",
+        "Every love story is beautiful, but ours is my favorite.",
+        "You don't cross my mind – you live in it.",
+        "I choose you. And I'll choose you over and over without pause, without doubt.",
+        "My heart is, and always will be, yours.",
+        "Love isn't finding a perfect person. It's seeing an imperfect person perfectly.",
+        "Together is a wonderful place to be.",
+        "You are the best thing I never planned.",
+        "If I had a flower for every time you made me smile, I'd have an endless garden.",
+        "The best thing to hold onto in life is each other.",
+        "I want all of you, forever, every day.",
+        "Love is friendship set on fire."
+      ],
+      "premium_quotes": [
+        "You are my today and all of my tomorrows.",
+        "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
+        "The greatest thing you'll ever learn is just to love and be loved in return.",
+        "I have found the one whom my soul loves.",
+        "Whatever our souls are made of, his and mine are the same."
+      ]
+    },
+    {
+      "name": "Sad",
+      "icon": "water_drop",
+      "color": "#5C6BC0",
+      "quotes": [
+        "The saddest thing about love is that not only that it cannot last forever, but that heartbreak is soon forgotten.",
+        "Sometimes you have to smile to hide your tears.",
+        "It's sad when someone you know becomes someone you knew.",
+        "The worst feeling is pretending you don't care about something when it's all you think about.",
+        "Behind my smile is everything you'll never understand.",
+        "Sometimes the person who tries to keep everyone happy is the most lonely.",
+        "I'm not okay, but I smile anyway.",
+        "Tears are words the heart can't express.",
+        "You can't protect yourself from sadness without protecting yourself from happiness.",
+        "Sadness flies away on the wings of time.",
+        "Heavy hearts, like heavy clouds in the sky, are best relieved by letting a little water out.",
+        "Every heart has a pain. Only the way of expressing it is different.",
+        "It hurts when you have someone in your heart but can't have them in your arms.",
+        "The worst kind of pain is when you're smiling to stop the tears from falling.",
+        "Sometimes it takes sadness to know happiness."
+      ],
+      "premium_quotes": [
+        "Grief is the price we pay for love.",
+        "The walls we build around us to keep sadness out also keep out the joy.",
+        "Tears shed for another person are not a sign of weakness. They are a sign of a pure heart.",
+        "Every man has his secret sorrows which the world knows not.",
+        "Sadness is but a wall between two gardens."
+      ]
+    },
+    {
+      "name": "Attitude",
+      "icon": "local_fire_department",
+      "color": "#FF5722",
+      "quotes": [
+        "I'm not special. I'm a limited edition.",
+        "My attitude is based on how you treat me.",
+        "I don't have an attitude problem. You have a perception problem.",
+        "Be yourself; everyone else is already taken.",
+        "I'm not here to fit in. I'm here to stand out.",
+        "Silence is the best response to a fool.",
+        "Don't mistake my kindness for weakness.",
+        "I'm not heartless. I just learned how to use my heart less.",
+        "Know your worth. Then add tax.",
+        "I'd rather be hated for who I am than loved for who I'm not.",
+        "My life, my rules, my attitude.",
+        "Too glam to give a damn.",
+        "I'm a vibe that no one else can replace.",
+        "Stars can't shine without darkness.",
+        "If you can't handle me at my worst, you don't deserve me at my best.",
+        "Judge me when you are perfect."
+      ],
+      "premium_quotes": [
+        "I am the storm. Not the one who waits for it to pass.",
+        "They told me I couldn't. That's why I did.",
+        "A diamond doesn't know its value, but it doesn't lose it either.",
+        "My attitude is a result of your actions. Change your actions and I'll change my attitude.",
+        "Born to express, not to impress."
+      ]
+    },
+    {
+      "name": "Motivation",
+      "icon": "emoji_events",
+      "color": "#FF9800",
+      "quotes": [
+        "Believe you can and you're halfway there.",
+        "The only way to do great work is to love what you do.",
+        "Don't watch the clock; do what it does. Keep going.",
+        "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "Your limitation—it's only your imagination.",
+        "Dream big. Start small. Act now.",
+        "The harder you work for something, the greater you'll feel when you achieve it.",
+        "Wake up with determination. Go to bed with satisfaction.",
+        "Don't stop when you're tired. Stop when you're done.",
+        "Little things make big days.",
+        "It's going to be hard, but hard does not mean impossible.",
+        "Push yourself, because no one else is going to do it for you.",
+        "Great things never come from comfort zones.",
+        "The secret of getting ahead is getting started.",
+        "Don't be afraid to give up the good to go for the great."
+      ],
+      "premium_quotes": [
+        "The future belongs to those who believe in the beauty of their dreams.",
+        "It does not matter how slowly you go as long as you do not stop.",
+        "A winner is a dreamer who never gives up.",
+        "Your life does not get better by chance, it gets better by change.",
+        "What you get by achieving your goals is not as important as what you become."
+      ]
+    },
+    {
+      "name": "Funny",
+      "icon": "sentiment_very_satisfied",
+      "color": "#4CAF50",
+      "quotes": [
+        "I'm not lazy, I'm on energy-saving mode.",
+        "My bed is a magical place where I suddenly remember everything I was supposed to do.",
+        "I don't need a hair stylist, my pillow gives me a new hairstyle every morning.",
+        "Life is short. Smile while you still have teeth.",
+        "I'm not arguing, I'm simply explaining why I'm right.",
+        "Common sense is like deodorant. The people who need it most never use it.",
+        "My wallet is like an onion. Opening it makes me cry.",
+        "I need a six-month holiday, twice a year.",
+        "I'm on a seafood diet. I see food and I eat it.",
+        "Of course I talk to myself. Sometimes I need expert advice.",
+        "I don't need anger management. You need to stop making me angry.",
+        "WiFi went down for five minutes, so I had to talk to my family.",
+        "Friday is my second favorite F word. Food is my first.",
+        "I'm not weird, I'm a limited edition.",
+        "An apple a day keeps anyone away if you throw it hard enough."
+      ],
+      "premium_quotes": [
+        "I finally realized that people are prisoners of their phones... that's why it's called a cell phone.",
+        "If overthinking was an Olympic sport, I'd win gold.",
+        "Brains are awesome. I wish everybody had one.",
+        "I'm not shy, I'm holding back my awesomeness so I don't intimidate you.",
+        "My favorite exercise is a cross between a lunge and a crunch... I call it lunch."
+      ]
+    },
+    {
+      "name": "Good Morning",
+      "icon": "wb_sunny",
+      "color": "#FFC107",
+      "quotes": [
+        "Good morning! Every day is a fresh start. Make it count!",
+        "Rise up, start fresh, see the bright opportunity in each new day.",
+        "Today is a good day to have a great day.",
+        "Good morning sunshine! You light up my world.",
+        "The morning was full of sunlight and hope.",
+        "Wake up and chase your dreams. Good morning!",
+        "Each morning brings new potential, but if you dwell on the past, you won't see it.",
+        "A new day is like a blank page. Write a good one!",
+        "Good morning! Life is too short to wake up with regrets.",
+        "The sun is up, the sky is blue. Today is beautiful, and so are you!",
+        "May your coffee be hot and your Monday be short. Good morning!",
+        "Good morning! Believe something wonderful is about to happen.",
+        "Start each day with a grateful heart. Good morning!",
+        "The biggest source of motivation are your own thoughts. Think big and motivate yourself to win.",
+        "Every morning is a chance to begin again. Good morning!"
+      ],
+      "premium_quotes": [
+        "With the new day comes new strength and new thoughts. Good morning!",
+        "Let your smile change the world, but don't let the world change your smile.",
+        "Today will be amazing. So wake up and smile!",
+        "Good morning! The only way to achieve the impossible is to believe it is possible.",
+        "Morning is wonderful. Its only drawback is that it comes at such an inconvenient time of day."
+      ]
+    },
+    {
+      "name": "Birthday",
+      "icon": "cake",
+      "color": "#9C27B0",
+      "quotes": [
+        "Wishing you a day filled with love and happiness. Happy Birthday!",
+        "May your birthday be as wonderful as the smile you put on others' faces.",
+        "Another year older, another year wiser. Happy Birthday!",
+        "Here's to another year of laughing at our own jokes. Happy Birthday!",
+        "Count your life by smiles, not tears. Happy Birthday!",
+        "Wishing you health, wealth, and endless blessings. Happy Birthday!",
+        "May all your dreams come true this birthday and always.",
+        "You deserve the world. Happy Birthday, superstar!",
+        "Growing old is mandatory. Growing up is optional. Happy Birthday!",
+        "The more you praise and celebrate your life, the more there is in life to celebrate.",
+        "Age is merely the number of years the world has been enjoying you. Happy Birthday!",
+        "Today is the oldest you've ever been and the youngest you'll ever be again!",
+        "May your birthday be the start of a year filled with good luck and great memories.",
+        "Life is a journey, and your birthday is a beautiful milestone. Enjoy every moment!",
+        "A birthday is nature's way of telling us to eat more cake!"
+      ],
+      "premium_quotes": [
+        "You are never too old to set another goal or to dream a new dream. Happy Birthday!",
+        "May the years continue to be good to you. Happy Birthday!",
+        "Every birthday is a gift. Every day is a gift. Unwrap them both with gratitude!",
+        "Today a star was born, and the world became a better place. Happy Birthday!",
+        "May your birthday and every day be filled with the warmth of sunshine and the happiness of smiles."
+      ]
+    },
+    {
+      "name": "Festival Wishes",
+      "icon": "celebration",
+      "color": "#F44336",
+      "quotes": [
+        "May the spirit of the festival fill your heart with joy and happiness!",
+        "Wishing you and your family a blessed and joyous celebration!",
+        "May this festival bring light, love, and laughter into your life.",
+        "Let's celebrate the beauty of togetherness. Happy Festivities!",
+        "May the divine blessings of the festival fill your life with happiness.",
+        "Sending you warm wishes wrapped with love. Happy Celebrations!",
+        "May the colors of the festival add cheer and happiness in your life.",
+        "Here's wishing you joy, peace, and prosperity during this festive season!",
+        "Celebrate the moments that make life truly beautiful. Happy Festival!",
+        "May the festival season bring you closer to the things that matter most.",
+        "Festivals remind us to be grateful for all the blessings we have.",
+        "May every festival bring new hope, new joy, and new beginnings!",
+        "Light a lamp of love, blast a chain of sorrow. Shoot a rocket of prosperity. Happy Festival!",
+        "May the good times and treasures of the present become golden memories of tomorrow.",
+        "Let the festival vibes take over. Celebrate, enjoy, and be merry!"
+      ],
+      "premium_quotes": [
+        "May the blessings of the Almighty fill your life with happiness and prosperity.",
+        "Festivals are a time to reflect, rejoice, and renew. Wishing you the best!",
+        "Let the celebrations remind you of all the beautiful things in your life.",
+        "May every candle you light, every prayer you make, bring miracles in your life.",
+        "This festive season, may you be blessed with everything your heart desires."
+      ]
+    },
+    {
+      "name": "Tamil Love",
+      "icon": "favorite_border",
+      "color": "#EC407A",
+      "quotes": [
+        "உன் கண்களில் நான் என்னை தொலைத்தேன்.",
+        "காதல் என்பது இரு இதயங்களின் மௌன மொழி.",
+        "உன் நினைவுகள் என் நெஞ்சின் இதமான வலி.",
+        "நீ இல்லாத நாள் என்பது நாளே அல்ல.",
+        "என் உலகம் உன்னில் தொடங்கி உன்னில் முடிகிறது.",
+        "ஒரு பார்வையில் ஆயிரம் வார்த்தைகள் சொன்னாய்.",
+        "காதல் வயதை பார்ப்பதில்லை, கவலையை அறிவதில்லை.",
+        "உன் சிரிப்பு என் வாழ்க்கையின் அர்த்தம்.",
+        "இதயம் துடிக்கும் ஒவ்வொரு முறையும் உன் பெயர் சொல்கிறது.",
+        "நீ என் கனவுகளின் ராணி.",
+        "உன்னோடு நடக்கும் ஒவ்வொரு நொடியும் சொர்க்கம்.",
+        "காதல் என்றால் என்ன என்று நீ தான் எனக்கு சொல்லி தந்தாய்.",
+        "உன் பேச்சு என் காதுக்கு இசை.",
+        "நீ என் வாழ்வின் மிக அழகான அத்தியாயம்.",
+        "உன் கண்களில் எனக்கான உலகம் இருக்கிறது."
+      ],
+      "premium_quotes": [
+        "காதல் என்பது ஒரு பயணம், ஒரு இலக்கு அல்ல.",
+        "உன்னை நேசிப்பது என் விதி, உன்னோடு வாழ்வது என் கனவு.",
+        "நீ இன்றி என் உயிர் ஒரு வெற்றுப் பக்கம்.",
+        "காதலின் ஒரு சொட்டு ஆயிரம் கண்ணீரை துடைக்கும்.",
+        "என் இதயத்தின் ஒவ்வொரு துடிப்பும் உனக்காகவே."
+      ]
+    },
+    {
+      "name": "Tamil Motivation",
+      "icon": "military_tech",
+      "color": "#26A69A",
+      "quotes": [
+        "தோல்வி என்பது வெற்றியின் முதல் படி.",
+        "கனவு காணுங்கள், அதை நனவாக்குங்கள்.",
+        "உங்கள் கடின உழைப்பு ஒரு நாள் கண்டிப்பாக பலன் தரும்.",
+        "போராடு, வெற்றி உனக்காகவே காத்திருக்கிறது.",
+        "வீழ்வது தவறல்ல, எழாமல் இருப்பதே தவறு.",
+        "நம்பிக்கை இழக்காதே, வெற்றி நெருங்கி வருகிறது.",
+        "உனக்கு நீயே போதும், உனக்கு நீயே முதல்.",
+        "ஒவ்வொரு சிறிய முயற்சியும் பெரிய வெற்றிக்கான அடித்தளம்.",
+        "வாழ்க்கை என்பது ஒரு சவால், அதை ஏற்றுக்கொள்.",
+        "கஷ்டம் வரும் போது தான் கற்கள் வைரமாகும்.",
+        "எதிர்காலம் உங்கள் கையில் இருக்கிறது.",
+        "விடாமுயற்சி வெற்றிக்கு வழிவகுக்கும்.",
+        "உங்கள் கனவுகளை யாரும் திருட முடியாது.",
+        "இன்றைய வலி நாளைய வெற்றி.",
+        "சாதிக்க வேண்டும் என்ற உறுதி இருந்தால், உலகமே உங்கள் காலடியில்."
+      ],
+      "premium_quotes": [
+        "காலம் கடந்தாலும் முயற்சி கைவிடாதே.",
+        "வெற்றி பெற விரும்புவோர் தோல்வியை ஏற்றுக்கொள்ள கற்றுக்கொள்ள வேண்டும்.",
+        "உங்கள் சிந்தனை உங்கள் வாழ்க்கையை தீர்மானிக்கிறது.",
+        "ஒரு நல்ல எண்ணம் ஆயிரம் வெற்றிகளுக்கு சமம்.",
+        "பயணம் கடினமாக இருக்கலாம், ஆனால் இலக்கு அழகானது."
+      ]
+    }
+  ]
+}
